@@ -1,0 +1,1 @@
+<a href="https://book.impress.co.jp/books/1118101072"><img src="https://user-images.githubusercontent.com/58177127/96207558-76f9c400-0fa6-11eb-837b-da5278944409.png" alt="いちばんやさしいPython機械学習の教本 人気講師が教える業務で役立つ実践ノウハウ"></a>
